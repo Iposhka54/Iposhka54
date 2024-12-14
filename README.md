@@ -24,16 +24,21 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" **alt="Maven" width="40" height="40"/>
 </div>
 
 ---
 
+#### Want to try someday :
+[![Spring](https://img.shields.io/badge/Spring-black?logo=spring&logoColor=green)](https://spring.io/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-black?logo=Hibernate&logoColor=tan)](https://hibernate.org/)
+---
+
 ### :fire: My Stats :
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iposhka54&count_private=true&show_icons=true&theme=github_dark&hide_border=true&show=prs_merged_percentage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iposhka54&size_weight=1&count_weight=0&layout=donut&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile,c%23,typescript)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Iposhka54&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iposhka54&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
