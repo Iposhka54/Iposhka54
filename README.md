@@ -1,44 +1,44 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdkdDUyc2xtbmZ4Y2xlbjJyZXRtOGc1cDkzeGVtN3l0a3E3ZGZpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="https://vk.com/subculture54">
-  <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-  </a>
-    <a href="https://t.me/subculture54">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=Iposhka54&style=flat-square&color=blue" alt=""/>
-<h1 align="center">Hi there, I'm Yaroslav
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&multiline=true&width=435&lines=Computer+science+student;Back-end+Developer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
-- :telescope: I’m studying as a Software Engineering and contributing to back-end for building web applications.
+<h3 align="center">Java backend developer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://leetcard.jacoblin.cool/Iposhka54?ext=heatmap">
 
-- :mailbox:How to reach me: [![VK Badge](https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/subculture54)
----
+<br/>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+- 🌱 I’m currently learning **how to breathe**
+
+- 💬 Ask me about **Java , Spring**
+
+- 📫 How to reach me **yaroslavkusb@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/Iposhka54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Iposhka54" height="40" width="40" /></a>
+<a href="https://t.me/subculture54" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="subculture54" height="40" width="40" /></a>
+<a href="https://vk.com/subculture54" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" alt="subculture54" height="40" width="40"/></a>
+</p>
+
+<h3 align="left">Languages</h3>
+<div">  
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,cs" height="40" />
+</a>
 </div>
 
----
+<h3 align="left">Tools</h3>
+<div">  
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,git,github,docker,kafka,linux,maven,gradle,hibernate,idea" height="40" />
+</a>
+</div>
 
-#### Want to try someday :
-[![Spring](https://img.shields.io/badge/Spring-black?logo=spring&logoColor=green)](https://spring.io/)
-[![Hibernate](https://img.shields.io/badge/Hibernate-black?logo=Hibernate&logoColor=tan)](https://hibernate.org/)
----
+<h3 align="left">Databases</h3>
+<div">  
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" height="40"/>
+</a>
+</div>
+</div>
 
 ### :fire: My Stats :
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iposhka54&count_private=true&show_icons=true&theme=github_dark&hide_border=true&show=prs_merged_percentage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iposhka54&size_weight=1&count_weight=0&layout=donut&theme=github_dark&hide_border=true&hide=jupyter%20notebook,html,css,dockerfile,c%23,typescript)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Iposhka54&theme=dark&background=000000)](https://git.io/streak-stats)
-
